@@ -1,5 +1,7 @@
 # ESP32CAM-Gatos-IA
-Deteccion de gatos con sonido con esp32cam.
+## Deteccion de gatos con sonido con esp32cam.
+
+![image](https://github.com/user-attachments/assets/bc02647e-edca-431d-bd88-fe3cdea6e3aa)
 ![image](https://github.com/user-attachments/assets/4c3b8863-5632-4df1-90cf-b62696dc34fb)
 
 Paso:

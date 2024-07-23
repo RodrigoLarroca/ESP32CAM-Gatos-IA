@@ -11,9 +11,9 @@ Pasos:
 
 3- Después de ejecutar el comando anterior, PyInstaller creará una carpeta dist en tu directorio actual, y dentro de ella estará tu archivo ejecutable. En esa carpeta es necesario tener los siguientes archivos:
 
-*coco.names
-*yolov3
-*yolov3.weights
-*yolov3-tiny
-*yolov3-tiny.weights
+* coco.names
+* yolov3
+* yolov3.weights
+* yolov3-tiny
+* yolov3-tiny.weights
 
